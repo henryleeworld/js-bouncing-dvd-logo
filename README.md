@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/epqsfb4.gif)
+![](https://i.imgur.com/WvFb8Aa.gifv)
 > 為了偵測碰撞的發生，檢查商標是否接觸(相撞)邊界，如果有碰到將改變商標的行進方向
