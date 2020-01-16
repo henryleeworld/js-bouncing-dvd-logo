@@ -15,7 +15,7 @@ let logo = {
 (function main(){
     canvas = document.getElementById("tv-screen");
     ctx = canvas.getContext("2d");
-    logo.img.src = 'img/logo.png';
+    logo.img.src = 'images/logo.png';
 
     //Draw the "tv screen"
     canvas.width  = window.innerWidth;
